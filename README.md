@@ -1,14 +1,72 @@
 # Data Science Learning Resources
 
-- [Programming](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/README.md#programming)
-- [Machine Learning](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/README.md#machine-learning)
-- [Bayesian Inference]()
-- [Geospatial Analysis]()
-- [Leadership & Strategy](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/README.md#leadership--strategy)
+- [Programming](https://github.com/pydatawrangler/dslr/blob/master/README.md#programming)
+- [Machine Learning](https://github.com/pydatawrangler/dslr/blob/master/README.md#machine-learning)
+- [Bayesian Inference](https://github.com/pydatawrangler/dslr/blob/master/README.md#bayesian-inference)
+- [Geospatial Analysis](https://github.com/pydatawrangler/dslr/blob/master/README.md#geospatial-analysis)
+- [Leadership & Strategy](https://github.com/pydatawrangler/dslr/blob/master/README.md#leadership--strategy)
 
 <br>
 
 ## Programming
+
+### Python
+
+- [Headfirst Python]()
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (book)
+
+### R
+
+- [R for Data Science](https://r4ds.had.co.nz/) (Book)
+- [Advanced R](https://adv-r.hadley.nz/) (Book)
+
+### Testing
+
+- [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409/ref=sr_1_3?keywords=Python+Testing+with+pytest&qid=1578174634&s=books&sr=1-3) (Book)
+
+
+## Machine Learning
+
+## Bayesian Inference
+
+- [Statistical Rethinking](#) (Book)
+- [Bayesian Analysis with Python 2nd Edition](#) (Book)
+- [Doing Bayesian Data Analysis](#) (Book)
+- [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) (Github Repo)
+
+## Geospatial Analysis
+
+### With Python
+
+- [Learning Geospatial Analysis with Python 3rd Edition](#) (Book)
+- [Mastering Geospatial Analysis with Python](#) (Book)
+
+### QGIS
+
+- [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/) (Website)
+
+### Google Earth Engine
+
+- [Hands-on Satellite Imagery Analysis | Scipy 2019 Tutorial](https://www.youtube.com/watch?v=j15MryznWn4&t=3032s) (Youtube Video)
+- [Google Earth Engine Python Examples](https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples) (Github Repo)
+
+### General
+
+- [Spatial Thoughts OpenCourseWare](https://courses.spatialthoughts.com/) (Website)
+[Spatial Thoughts Youtube Channel](https://www.youtube.com/c/SpatialThoughts/featured) (Youtube Channel)
+
+## Leadership & Strategy
+
+
+
+
+***********************************************************************
+OTHER LEARNING RESOURCES
+***********************************************************************
+
+
+
+## Other Programming
 
 ### General
 
@@ -19,15 +77,13 @@
 ### Python
 
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) (Book)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 - [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (Book)
 - [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
 - [Effective Python](https://effectivepython.com/) (Book)
 
 ### R
 
-- [R for Data Science](https://r4ds.had.co.nz/) (Book)
-- [Advanced R](https://adv-r.hadley.nz/) (Book)
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) (Book)
 - [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/) (Book)
 - [Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving](https://www.amazon.com/Data-Science-Approach-Computational-Reasoning/dp/1482234815/ref=sr_1_4?keywords=data+science+in+r&qid=1578174035&s=books&sr=1-4) (Book)
@@ -86,11 +142,10 @@
 ### Testing
 
 - [Testing R Code](https://www.amazon.com/Testing-Code-Chapman-Hall-CRC/dp/1498763650) (Book)
-- [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409/ref=sr_1_3?keywords=Python+Testing+with+pytest&qid=1578174634&s=books&sr=1-3) (Book)
 - [Multiply your Testing Effectiveness with Parameterized Testing](https://us.pycon.org/2020/schedule/presentation/172/) (PyCon Talk)
 - [Test-Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) (Book)
 
-## Machine Learning
+## Other Machine Learning
 
 ### General 
 
@@ -240,11 +295,7 @@
 - [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) (Paper)
 - [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production) (Github resources)
 
-## Bayesian Inference
-
-## Geospatial Analysis
-
-## Leadership & Strategy
+## Other Leadership & Strategy
 
 - [Platform Revolution](https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393354350/ref=asc_df_0393354350/?tag=hyprod-20&linkCode=df0&hvadid=312175933381&hvpos=&hvnetw=g&hvrand=1035572653413444981&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9015829&hvtargid=pla-303822642427&psc=1&tag=&ref=&adgrpid=60258871817&hvpone=&hvptwo=&hvadid=312175933381&hvpos=&hvnetw=g&hvrand=1035572653413444981&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9015829&hvtargid=pla-303822642427) (Book)
 - [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860/ref=sr_1_2?dchild=1&keywords=no+rules+rules&qid=1603384965&s=books&sr=1-2) (Book)
