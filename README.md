@@ -53,7 +53,7 @@
 ### General
 
 - [Spatial Thoughts OpenCourseWare](https://courses.spatialthoughts.com/) (Website)
-[Spatial Thoughts Youtube Channel](https://www.youtube.com/c/SpatialThoughts/featured) (Youtube Channel)
+- [Spatial Thoughts Youtube Channel](https://www.youtube.com/c/SpatialThoughts/featured) (Youtube Channel)
 
 ## Leadership & Strategy
 
