@@ -24,6 +24,14 @@
 
 - [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409/ref=sr_1_3?keywords=Python+Testing+with+pytest&qid=1578174634&s=books&sr=1-3) (Book)
 
+### Markdown
+
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet) (Website)
+
+### Website Devepment
+
+- [Hugo Static Site Generator](https://gohugo.io/)
+
 
 ## Machine Learning
 
